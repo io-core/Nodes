@@ -1,0 +1,7 @@
+k,v1,v2
+package,Nodes,v5.0.20210907
+from,github.com/io-core,
+license,MIT,CP
+doc,stdlib,provides for node coordination in Integrated Oberon.
+r,[core]/Kernel,v5.0.0
+p,Nodes.Mod,
