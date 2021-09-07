@@ -24,5 +24,5 @@ MODULE Nodes;
 
   VAR 
 
-
-END Test.
+BEGIN
+END Nodes.
